@@ -7,7 +7,7 @@
 - Three
 - Four
 
-[1.3 Slides](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjd1taQ1tXuAhXmUd8KHbgcAdYQPAgI
+[1.3 Slides](https://www.quoteswishesmsg.com/happy-saturday-quotes-with-images.html
 )~
 ``` python
 print("hello")
