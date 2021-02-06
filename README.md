@@ -4,7 +4,9 @@
 ### What is the background of your company? What do they do? Who are their competitors?
 
 - Vanguard is one of the world's largest investment companies, offering a large selection of high-quality low-cost mutual funds, ETFs, advice, and related services.  
+
 - Vanguard Digital Advisor is a low-cost robo-advisor that stands out with its time-tested index fund approach that carries on the brokers long history of cutting fees for investors. 
+
 - Competitors:Betterment,Wealthfront
 ---
 
@@ -37,5 +39,7 @@ have acquired or built robos or robo-like offerings
 
 - Robo Advising Business will expand on Advise about investments and savings. Eduacation and retirement plans.And access to personalized financial advice, high-quality investments, retirement tools and relevant market insights that help you build a future for those you love.
 
-![image-test](./references/download.jpeg)
+![image-test](download.jpeg)
+
+
 
