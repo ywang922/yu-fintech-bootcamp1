@@ -7,7 +7,8 @@
 - Three
 - Four
 
-[1.3 Slides] (www.google.com)~~
+[1.3 Slides](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjd1taQ1tXuAhXmUd8KHbgcAdYQPAgI
+)~
 ``` python
 print("hello")
 ````
