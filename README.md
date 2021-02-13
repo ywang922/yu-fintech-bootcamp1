@@ -4,7 +4,7 @@ Unit 1 Homework Assignment: FinTech Case Study
 
 ## Overview and Origin 
 
-Trulioo is a leading global identity and business verification provider specializing in AML and KYC compliance  Information Technology & Services  Vancouver, British Columbia
+Trulioo is a leading global identity and business verification provider specializing in AML and KYC compliance; Information Technology & Services; Vancouver, British Columbia
 
 * Name of company.  
 
