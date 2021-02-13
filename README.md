@@ -140,5 +140,5 @@ Identity cloud has APIs that allow customers fully customize various solutions.
 *	Compare Auth0 vs Trulioo
 *	Compare Trulioo vs SailPoint
 *	Compare Trulioo vs Okta Identity Cloud
-*	Compare Trulioo vs AssureID
+*	Compare Trulioo vs AssureID[](https://comparisons.financesonline.com/trulioo-vs-assureid)
 
