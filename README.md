@@ -122,23 +122,23 @@ Identity cloud has APIs that allow customers fully customize various solutions.
 
 ----
 ## References:
-*	Vancouver’s Emerging FinTech Scene Poised to Push Back Against Canada’s Financial Centre
-*	American Express Canada Joins Mars Fintech Cluster As Sponsor
-*	Trulioo Raises $70 Million Cad From Global Banking Heavyweights
-*	Global Identity Verification Market – Industry Trends and Forecast to 2027
-*	Global Identity Verification Market to Witness Huge Growth by 2026: Key Players Trulioo, iDenfy, Gemalto NV, Authenteq, Experian Information Solutions, Inc., LexisNexis,
-*	CNBC Disruptor 50 - 27. Trulioo
-*	Trulioo raises $70M from Goldman Sachs, Citi, Santander and Amex as global banks embrace digital IDs
+*	[Vancouver’s Emerging FinTech Scene Poised to Push Back Against Canada’s Financial Centre](https://wearebctech.com/vancouver-s-emerging-fintech-scene-poised-to-push-back-against-canada-s-financial-centre/)
+*	[American Express Canada Joins Mars Fintech Cluster As Sponsor](https://betakit.com/american-express-canada-sponsoring-mars-fintech-cluster/)
+*	[Trulioo Raises $70 Million Cad From Global Banking Heavyweights](https://betakit.com/trulioo-raises-70-million-cad-from-global-banking-heavyweights/)
+*	[Global Identity Verification Market – Industry Trends and Forecast to 2027](https://www.databridgemarketresearch.com/reports/global-identity-verification-market)
+*	[Global Identity Verification Market to Witness Huge Growth by 2026: Key Players Trulioo, iDenfy, Gemalto NV, Authenteq, Experian Information Solutions, Inc., LexisNexis](https://bcfocus.com/identity-verification-market/)
+*	[CNBC Disruptor 50 - 27. Trulioo](https://www.cnbc.com/2020/06/16/trulioo-disruptor-50.html)
+*	[Trulioo raises $70M from Goldman Sachs, Citi, Santander and Amex as global banks embrace digital IDs](https://www.trulioo.com/blog/trulioo-raises-70-million)
 *	https://stackshare.io/trulioo
-*	Trulioo Wins RemTECH Award for Compliance Innovation
-*	trulioo-profile.pdf
-*	Trulioo recognized as Technology Pioneer by World Economic Forum
+*	[Trulioo Wins RemTECH Award for Compliance Innovation](https://www.trulioo.com/blog/remtech-award-compliance-innovation)
+*	[trulioo-profile.pdf](https://www.ivey.uwo.ca/cmsmedia/3783932/trulioo-profile.pdf)
+*	[Trulioo recognized as Technology Pioneer by World Economic Forum](https://www.trulioo.com/blog/technology-pioneer)
 *	https://www.linkedin.com/company/trulioo/
-*	RegTech Supplier Performance Report 2019 – Trulioo ranks #1 for verification tools/identity checks
-*	Regtech100 Companies
-*	Trulioo Taps Amex Exec, ID Vet As Board Member
-*	Compare Auth0 vs Trulioo
-*	Compare Trulioo vs SailPoint
-*	Compare Trulioo vs Okta Identity Cloud
-*	Compare Trulioo vs AssureID[](https://comparisons.financesonline.com/trulioo-vs-assureid)
+*	[RegTech Supplier Performance Report 2019 – Trulioo ranks #1 for verification tools/identity checks](https://www.trulioo.com/blog/regtech-supplier-performance-report-2019)
+*	[Regtech100 Companies](https://fintech.global/regtech100/)
+*	[Trulioo Taps Amex Exec, ID Vet As Board Member](https://www.pymnts.com/personnel/2020/trulioo-taps-amex-exec-id-vet-as-board-member/)
+*	[Compare Auth0 vs Trulioo](https://comparisons.financesonline.com/auth0-vs-trulioo)
+*	[Compare Trulioo vs SailPoint](https://comparisons.financesonline.com/trulioo-vs-sailpoint)
+*	[Compare Trulioo vs Okta Identity Cloud](https://comparisons.financesonline.com/trulioo-vs-okta-identity-cloud)
+*	[Compare Trulioo vs AssureID](https://comparisons.financesonline.com/trulioo-vs-assureid)
 
